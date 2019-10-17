@@ -1,4 +1,4 @@
-# ML_income_pred
+# ML
 The aim of the competition is to predict the income of people.
 
 ## Editor used
