@@ -1,4 +1,4 @@
-# ML
+# Machine Learning Income Prediction Comp. 2019/20
 The aim of the competition is to predict the income of people.
 
 ## Editor used
